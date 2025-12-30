@@ -1,0 +1,24 @@
+組態威脅情資
+{
+找出以下項目最近一個月的資安弱點： 
+
+Paloalto NGFW, Panorama
+
+Trendmicro ddei, ddi, deep security, ApexOne
+
+Openfind Mail 2000
+
+IIS
+
+nodejs
+
+SQL Server
+
+next.js
+
+Imperva WAF
+
+F5 load balancer
+
+F5 VPN (APM)
+}
